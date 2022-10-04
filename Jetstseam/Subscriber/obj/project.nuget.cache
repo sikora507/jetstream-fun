@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfnQJ3IKqNsvNQJCIHfaUPzRcWWwrAGSaL/7GIkc7s/kq0c6VNDd7LfYIEHTi/aybCFGD82fKQmzpp0bDyllwg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\jetstream-fun\\Jetstseam\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sikor\\.nuget\\packages\\nats.client\\1.0.1\\nats.client.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
